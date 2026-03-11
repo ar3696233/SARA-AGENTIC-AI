@@ -3,7 +3,7 @@
 
 > *"Created with love for the ones who can make this world a beautiful place to live in."*
 
-SARA AI is an agentic AI-powered study assistant built specifically for visually impaired K-12 students. It is fully voice-controlled, personalised, and works entirely in the browser — no installation needed.
+SARA AI is an agentic AI-powered study assistant built specifically for visually impaired and dyslexic K-12 students. It is fully voice-controlled, personalised, and works entirely in the browser — no installation needed.
 
 ---
 
@@ -16,12 +16,12 @@ SARA AI is an agentic AI-powered study assistant built specifically for visually
 ---
 
 ## 🎯 The Problem
-253 million people worldwide are visually impaired, yet most AI study tools are completely unusable without sight — relying on visual menus, drag & drop, and text-heavy interfaces. No personalised AI tutor exists for this community.
+253 million people worldwide are visually impaired, and millions more live with dyslexia — yet most AI study tools are completely unusable for them, relying on visual menus, drag & drop, and dense text-heavy interfaces with no accessibility support. No personalised AI tutor exists for this community.
 
 ---
 
 ## 💡 The Solution — SARA AI
-SARA is a fully voice-driven AI study assistant that teaches, quizzes, motivates and plans — all through natural conversation and speech.
+SARA is a fully voice-driven AI study assistant that teaches, quizzes, motivates and plans — all through natural conversation and speech, with built-in support for both visually impaired and dyslexic learners.
 
 ---
 
@@ -33,14 +33,14 @@ SARA is a fully voice-driven AI study assistant that teaches, quizzes, motivates
 | 📚 AI Lessons | Personalised lessons by grade & board |
 | 🧠 Smart Quiz | Voice answers — just say A, B, C or D |
 | 📝 Exam Mode | Full mock exams with voice input |
-| 📅 Timetable Scanner | Upload photo → auto reminders via email |
+| 📅 Timetable Scanner | Upload photo → automatically reads exam schedule |
 | 📖 Syllabus Upload | OCR reads your syllabus → teaches chapter by chapter |
 | 💬 Doubt Solver | Ask any question, get instant explanation |
 | 🌐 8 Languages | Hindi, Tamil, Telugu, Bengali & more |
-| 🎨 Accessibility | Font size, spacing, high contrast customiser |
+| 🎨 Accessibility | Font size, spacing & high contrast customiser |
+| 🔤 Dyslexia Support | OpenDyslexic font mode, increased letter spacing, simplified text output |
 | 📄 PDF Reader | Upload any PDF → Ask SARA questions about it |
 | 💪 Motivational Coach | Encouragement personalised to the student |
-| ✉️ Email Reminders | Exam reminders sent directly to your inbox |
 
 ---
 
@@ -54,8 +54,26 @@ Groq LLM (llama-3.3-70b) → Personalised Response → Text to Speech
 - **AI:** Groq API (llama-3.3-70b-versatile)
 - **Voice:** Web Speech API (built into browser)
 - **OCR:** Tesseract.js for timetable & syllabus scanning
-- **Reminders:** EmailJS
 - **Storage:** 100% local — no student data stored on any server
+
+---
+
+## ♿ Accessibility & Inclusion
+
+SARA is built for **two underserved communities:**
+
+### 👁️ Visually Impaired Students
+- Fully voice-controlled — no mouse or screen needed
+- Every feature accessible by speech command
+- Text-to-speech reads all content aloud
+- High contrast mode for low vision users
+
+### 🔤 Dyslexic Students
+- OpenDyslexic font mode — designed to reduce reading errors
+- Increased letter and word spacing
+- Shorter, simpler sentence output from AI
+- Voice input means no typing required
+- Content broken into smaller readable chunks
 
 ---
 
@@ -65,6 +83,7 @@ Groq LLM (llama-3.3-70b) → Personalised Response → Text to Speech
 - ✅ Tested with special needs coordinator & 2 teachers
 - ✅ 34% improvement in quiz scores after 2 weeks
 - ✅ User feedback shaped every major feature
+- ✅ Supports 253M+ visually impaired & 700M+ dyslexic people worldwide
 
 ---
 
@@ -105,7 +124,6 @@ Groq LLM (llama-3.3-70b) → Personalised Response → Text to Speech
 - Groq API — llama-3.3-70b-versatile
 - Web Speech API
 - Tesseract.js
-- EmailJS
 - Vanilla HTML / CSS / JavaScript
 
 ---
