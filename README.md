@@ -21,7 +21,7 @@
 
 ---
 
-# 👁️ About SARA AI
+#  About SARA AI
 
 SARA AI is an **agentic AI-powered study assistant** built specifically for **visually impaired and dyslexic K-12 students**.
 
@@ -31,7 +31,7 @@ The project aims to make **AI-powered education accessible for students who cann
 
 ---
 
-# 🏫 Project Information
+# Project Information
 
 **Creators:**  
 Aditya Rai  
@@ -48,7 +48,7 @@ Agentic AI • Assistive Technology • Inclusive Education
 
 ---
 
-# 🎯 The Problem
+# The Problem
 
 More than **253 million people worldwide are visually impaired**, and **hundreds of millions live with dyslexia**.
 
@@ -65,7 +65,7 @@ As a result, **millions of learners cannot benefit from AI-assisted education.**
 
 ---
 
-# 💡 The Solution — SARA AI
+# The Solution — SARA AI
 
 SARA AI is a **voice-driven AI tutor** that teaches, quizzes, motivates, and plans study sessions through **natural conversation**.
 
@@ -75,35 +75,35 @@ The entire system runs **inside a web browser**, ensuring easy access without in
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-### 🎤 Voice Control
+###  Voice Control
 - 30+ voice commands
 - completely hands-free
 
-### 📚 AI Lessons
+###  AI Lessons
 - personalised lessons based on **grade and board**
 
-### 🧠 Smart Quiz
+###  Smart Quiz
 - answer questions using voice
 - simply say **A, B, C or D**
 
-### 📝 Exam Mode
+###  Exam Mode
 - full mock exams with voice interaction
 
-### 📅 Timetable Scanner
+### Timetable Scanner
 - upload exam timetable image
 - OCR automatically reads schedule
 
-### 📖 Syllabus Upload
+### Syllabus Upload
 - upload syllabus
 - SARA teaches chapter-by-chapter
 
-### 💬 Doubt Solver
+###  Doubt Solver
 - ask any question
 - receive instant explanation
 
-### 🌐 Multilingual Support
+###  Multilingual Support
 Supports **8+ languages** including:
 
 - Hindi
@@ -112,25 +112,25 @@ Supports **8+ languages** including:
 - Bengali
 - and more
 
-### 🎨 Accessibility Controls
+###  Accessibility Controls
 - adjustable font size
 - line spacing control
 - high contrast mode
 
-### 🔤 Dyslexia Support
+###  Dyslexia Support
 - OpenDyslexic font mode
 - increased letter spacing
 - simplified AI responses
 
-### 📄 PDF Reader
+###  PDF Reader
 Upload study PDFs and **ask questions about the document**
 
-### 💪 Motivational Coach
+### Motivational Coach
 Encourages students during study sessions.
 
 ---
 
-# 🆚 Comparison with Major AI Assistants
+#  Comparison with Major AI Assistants
 
 Many AI assistants exist today such as 1, 2, and 3.
 
@@ -151,7 +151,7 @@ However, they are designed for **general productivity**, not **accessibility-foc
 | Privacy-First (Local Processing) | ✅ | ⚠️ | ⚠️ | ⚠️ |
 
 ---
-## 🏗️ System Architecture
+##  System Architecture
 
 SARA AI follows a **voice-driven AI interaction pipeline** that converts student speech into intelligent spoken responses.
 
@@ -168,10 +168,10 @@ SARA AI follows a **voice-driven AI interaction pipeline** that converts student
 
 ## Components
 
-### 🎤 Voice Input
+###  Voice Input
 Captures student speech using **Web Speech API**.
 
-### 🧠 AI Agent
+### AI Agent
 Processes commands such as:
 
 - "Hello SARA"
@@ -179,33 +179,33 @@ Processes commands such as:
 - "Explain photosynthesis"
 - "Read my syllabus"
 
-### 🤖 Language Model
+###  Language Model
 Uses **Groq API with Llama-3.3-70B** for intelligent responses.
 
-### 📷 OCR Engine
+###  OCR Engine
 Powered by **Tesseract.js** for:
 
 - timetable scanning
 - syllabus reading
 - text extraction
 
-### 🔊 Text-to-Speech
+###  Text-to-Speech
 Converts responses into spoken audio for accessibility.
 
 ---
 
-# ♿ Accessibility & Inclusion
+#  Accessibility & Inclusion
 
 SARA AI is built for two underserved communities.
 
-## 👁️ Visually Impaired Students
+##  Visually Impaired Students
 
 - fully voice-controlled interface
 - no mouse navigation required
 - text-to-speech for all content
 - high contrast display
 
-## 🔤 Dyslexic Students
+##  Dyslexic Students
 
 - OpenDyslexic font mode
 - increased letter spacing
@@ -214,7 +214,7 @@ SARA AI is built for two underserved communities.
 
 ---
 
-# 📈 Impact
+#  Impact
 
 - tested with visually impaired students
 - evaluated by teachers
@@ -227,7 +227,7 @@ Potential reach:
 
 ---
 
-# 🔒 Responsible AI
+#  Responsible AI
 
 SARA AI follows privacy-first principles.
 
@@ -238,14 +238,14 @@ SARA AI follows privacy-first principles.
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 -sara_student.html      → main application
 - presentation.pptx      → project slides
 - summary.docx.→ project report
 - video_script.docx      → competition script
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 1. Download `sara_student.html`
 2. Open in **Google Chrome**
@@ -258,7 +258,7 @@ No installation required.
 
 ---
 
-# 👨‍💻 Creators
+#  Creators
 
 Aditya Rai  
 Sparsh Ruhela  
@@ -270,7 +270,7 @@ Mentor: Vineeta Garg
 
 ---
 
-# 📜 License
+#  License
 
 © 2026 Aditya Rai & Sparsh Ruhela
 
