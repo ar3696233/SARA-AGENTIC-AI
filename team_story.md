@@ -65,7 +65,7 @@ Accessibility is the core philosophy behind SARA AI. The platform includes featu
 
 -  99% voice-controlled interaction and some tasks through keyboard input
 -  Structured AI lessons for any grade or topic
--  Multilingual learning support *(8 languages)*
+-  Multilingual learning support *(8 languages)*( only for lesson generation and motivation )
 - Dyslexia-friendly reading modes and spacing controls
 - AI-powered quizzes and progress tracking
 
