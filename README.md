@@ -155,7 +155,13 @@ However, they are designed for **general productivity**, not **accessibility-foc
 # 🏗️ System Architecture
 
 SARA AI follows a **voice-driven AI interaction pipeline**. 
--Student Voice ↓ Speech Recognition (Web Speech API) ↓ SARA AI Agent (Command Processing) ↓ Groq API (Llama-3.3-70B Model) ↓ Response Generation ↓ Text-to-Speech (Web Speech API) ↓ Audio Response to Student
+-Student Voice ↓
+-Speech Recognition (Web Speech API) ↓ 
+-SARA AI Agent (Command Processing) ↓ 
+-Groq API (Llama-3.3-70B Model) ↓
+Response Generation ↓
+-Text-to-Speech (Web Speech API) ↓
+-Audio Response to Student
 ---
 
 ## Components
