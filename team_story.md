@@ -63,7 +63,7 @@ The entire application runs inside a **web browser**, requiring no installation 
 
 Accessibility is the core philosophy behind SARA AI. The platform includes features designed for both visually impaired and dyslexic students:
 
--  100% voice-controlled interaction
+-  99% voice-controlled interaction and some tasks through keyboard input
 -  Structured AI lessons for any grade or topic
 -  Multilingual learning support *(8 languages)*
 - Dyslexia-friendly reading modes and spacing controls
