@@ -1,107 +1,92 @@
-# 🌟 Team Story – SARA AI
-### Smart Accessible Reader & Assistant
+# 🤖 SARA AI — Smart Adaptive Resource Assistant
 
-**Creators:** Aditya Rai & Sparsh Ruhela  
-**School:** Shaheed Rajpal DAV Public School, New Delhi  
-**Mentor:** Vineeta Garg  
+> *An Agentic AI-powered voice study assistant for visually impaired and dyslexic K–12 students.*
 
 ---
 
-## 🚩 The Beginning
+## 👥 Team
 
-Technology is transforming education, but we began to notice something important — many AI learning tools are designed for students who can easily read text, navigate complex interfaces, and interact visually with screens.
-
-But what about students who **cannot rely on sight to learn**?
-
-Across the world, **over 253 million people live with visual impairments**, and **hundreds of millions more experience dyslexia**. For these students, most modern educational tools remain difficult or impossible to use.
-
-This question inspired us:
-
-> *Can artificial intelligence make learning more accessible for students who learn differently?*
+| Role | Name |
+|------|------|
+| **Creators** | Aditya Rai & Sparsh Ruhela |
+| **School** | Shaheed Rajpal DAV Public School, New Delhi |
+| **Mentor** | Vineeta Garg |
 
 ---
 
-## 💡 The Idea
+## 💡 The Inspiration
 
-This question led us to create **SARA AI — Smart Accessible Reader & Assistant**.
+Modern AI tools are transforming education, but most are built for students who can easily read screens, navigate visual menus, and type commands. This creates a major barrier for millions of students with **visual impairments or dyslexia**.
 
-SARA AI is a **voice-driven AI study assistant** designed specifically for **visually impaired and dyslexic students**.
+Visually impaired students often cannot use traditional study apps because they depend heavily on visual interaction — buttons, menus, drag-and-drop interfaces. Many existing voice tools simply read text aloud but do not actually **teach, quiz, or guide** students in learning.
 
-Instead of relying on visual menus or typing, students interact with SARA through **natural conversation**. By simply speaking, they can:
+This challenge inspired us to ask a simple question:
 
-- learn new topics  
-- ask questions  
-- take quizzes  
-- scan exam schedules  
-- upload syllabus documents  
-- read and understand study materials  
-
-Our goal was to build a system where **students could learn independently using voice alone**.
+> **Can artificial intelligence become a true study companion for students who cannot rely on visual interfaces?**
 
 ---
 
-## 🛠️ Building SARA AI
+## 🧠 The Idea
 
-To bring this idea to life, we combined several modern AI technologies.
+To address this challenge, we created **SARA AI – Smart Adaptive Resource Assistant**.
 
-The system uses a powerful **large language model through the 1 API**, enabling intelligent responses and personalised explanations. Voice interaction is powered by the **2**, allowing the system to understand and respond to spoken commands.
+SARA AI is an Agentic AI-powered study assistant designed specifically for **visually impaired and dyslexic K–12 students**. Instead of relying on visual interaction, SARA works through natural voice communication.
 
-To make the system capable of reading documents such as **timetables and syllabus images**, we integrated **3 OCR technology**, which extracts text from images and converts it into readable information for the AI.
+Students can simply **speak to SARA** to:
 
-The entire application was built using **HTML, CSS, and JavaScript** and runs completely in the browser without installation.
+- 📚 Learn new topics through structured AI lessons
+- ❓ Ask academic questions
+- 🧪 Take voice-based quizzes
+- 📈 Track their learning progress
+- 📅 Scan exam timetables and receive reminders
 
----
-
-## ♿ Designing for Accessibility
-
-Accessibility was at the center of every design decision.
-
-SARA AI includes features such as:
-
-- **Fully voice-controlled interaction**
-- **Text-to-speech learning support**
-- **Dyslexia-friendly reading modes**
-- **Adjustable text spacing and fonts**
-- **Multilingual learning support**
-- **AI-powered quizzes and exam preparation**
-
-These features aim to make studying **simpler, more inclusive, and more empowering** for students with learning differences.
+Unlike a normal AI chatbot, SARA acts as an **intelligent study companion** that teaches, plans, and adapts to each student's learning needs.
 
 ---
 
-## 🤝 Learning from Real Users
+## 🛠️ Building the Solution
 
-One of the most meaningful parts of this project was testing SARA AI with **visually impaired students and teachers**.
+SARA AI combines several modern technologies to create an accessible learning system.
 
-Their feedback helped us improve the system’s usability, simplify explanations, and refine the voice interaction experience.
+| Technology | Purpose |
+|------------|---------|
+| **Claude API** | Personalised AI explanations & intelligent responses |
+| **Web Speech API** | Full hands-free voice interaction |
+| **Tesseract.js** | OCR — extracts text from uploaded images (timetables, syllabi) |
+| **HTML / CSS / JavaScript** | Browser-based app, zero installation required |
 
-Seeing students interact with the system and gain confidence in learning independently was incredibly motivating.
-
----
-
-## 🌍 Our Vision
-
-SARA AI began as a school project, but its mission is much larger.
-
-We believe **technology should empower every learner**, regardless of physical or learning challenges.
-
-Artificial intelligence has the power not only to automate tasks, but also to **create a more inclusive and equitable education system**.
-
-With SARA AI, we hope to demonstrate how AI can be used not just for innovation — but for **compassion, accessibility, and opportunity**.
+The entire application runs inside a **web browser**, requiring no installation or server infrastructure.
 
 ---
 
-## 🚀 Looking Ahead
+## ♿ Accessibility First
 
-Our future vision for SARA AI includes:
+Accessibility is the core philosophy behind SARA AI. The platform includes features designed for both visually impaired and dyslexic students:
 
-- improved voice intelligence  
-- personalised learning pathways  
-- broader language support  
-- integration with school curricula  
+- ✅ 100% voice-controlled interaction
+- ✅ Structured AI lessons for any grade or topic
+- ✅ Multilingual learning support *(8 languages)*
+- ✅ Dyslexia-friendly reading modes and spacing controls
+- ✅ AI-powered quizzes and progress tracking
 
-We hope to continue developing SARA AI so that it can one day support **students across the world who deserve equal access to education**.
+These features allow students to **learn independently** without relying on visual navigation or complex interfaces.
 
 ---
 
-*"Created with love for the ones who can make this world a more beautiful place to live in."*
+## 🌏 Our Vision
+
+SARA AI began as a school project, but its goal is much larger. We believe artificial intelligence should not only make learning smarter — it should also make it **more inclusive**.
+
+Through SARA AI, we hope to demonstrate how technology can empower students who are often left behind by traditional digital tools.
+
+> *Our vision is a future where **every student**, regardless of visual or learning challenges, can access high-quality education through AI.*
+
+---
+
+## 📄 License
+
+This project was created for educational purposes as part of a school initiative.
+
+---
+
+<p align="center">Made with ❤️ by Aditya Rai & Sparsh Ruhela · Shaheed Rajpal DAV Public School, New Delhi</p>
