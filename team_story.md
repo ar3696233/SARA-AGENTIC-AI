@@ -1,6 +1,6 @@
 #  SARA AI — Smart Adaptive Resource Assistant
 
-> *An Agentic AI-powered voice study assistant for visually impaired and dyslexic K–12 students.*
+> *An Agentic AI-powered voice study assistant for visually impaired K–12 students and students with dyslexia.*
 
 ---
 
