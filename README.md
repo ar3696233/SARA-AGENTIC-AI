@@ -151,17 +151,19 @@ However, they are designed for **general productivity**, not **accessibility-foc
 | Privacy-First (Local Processing) | ✅ | ⚠️ | ⚠️ | ⚠️ |
 
 ---
+## 🏗️ System Architecture
 
-# 🏗️ System Architecture
+SARA AI follows a **voice-driven AI interaction pipeline** that converts student speech into intelligent spoken responses.
 
-SARA AI follows a **voice-driven AI interaction pipeline**. 
--Student Voice ↓
--Speech Recognition (Web Speech API) ↓ 
--SARA AI Agent (Command Processing) ↓ 
--Groq API (Llama-3.3-70B Model) ↓
-Response Generation ↓
--Text-to-Speech (Web Speech API) ↓
--Audio Response to Student
+| Step | Component | Technology Used | Description |
+|-----|-----------|----------------|-------------|
+| 1 | Student Voice | Microphone Input | Student speaks a command or question to SARA |
+| 2 | Speech Recognition | Web Speech API | Converts spoken words into text |
+| 3 | SARA AI Agent | JavaScript Logic | Processes commands and determines the task |
+| 4 | AI Model Processing | Groq API – Llama-3.3-70B | Generates intelligent responses |
+| 5 | Response Generation | AI Output Processing | Formats response for the student |
+| 6 | Text-to-Speech | Web Speech API | Converts AI response into spoken audio |
+| 7 | Audio Response | Browser Audio Output | Student hears the answer from SARA |
 ---
 
 ## Components
