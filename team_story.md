@@ -30,7 +30,7 @@ This challenge inspired us to ask a simple question:
 
 To address this challenge, we created **SARA AI – Smart Adaptive Resource Assistant**.
 
-SARA AI is an Agentic AI-powered study assistant designed specifically for **visually impaired and dyslexic K–12 students**. Instead of relying on visual interaction, SARA works through natural voice communication.
+SARA AI is an Agentic AI-powered study assistant designed specifically for **visually impaired and  K–12 students and students from dyslexia**. Instead of relying on visual interaction, SARA works through natural voice communication.
 
 Students can simply **speak to SARA** to:
 
