@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">SARA AI</h1>
-<h3 align="center">Smart Accessible Reader & Assistant</h3>
+<h3 align="center">Smart Accessible Research & Assistant</h3>
 
 <p align="center">
 "Created with love for the ones who can make this world a beautiful place to live in."
@@ -23,9 +23,9 @@
 
 #  About SARA AI
 
-SARA AI is an **agentic AI-powered study assistant** built specifically for **visually impaired and dyslexic K-12 students**.
+SARA AI is an **agentic AI-powered study assistant** built specifically for **visually impaired K-12 students and students with dyslexia.**.
 
-It is **fully voice-controlled, personalised, and works directly in the browser** — no installation required.
+It is **voice-controlled, personalised, and works directly in the browser** — no installation required.
 
 The project aims to make **AI-powered education accessible for students who cannot rely on traditional text-heavy interfaces.**
 
@@ -69,7 +69,7 @@ As a result, **millions of learners cannot benefit from AI-assisted education.**
 
 SARA AI is a **voice-driven AI tutor** that teaches, quizzes, motivates, and plans study sessions through **natural conversation**.
 
-Students interact with SARA entirely through **voice commands**, making learning accessible for visually impaired and dyslexic learners.
+Students interact with SARA entirely through **voice commands and some features may require use of keyboard too.**, making learning accessible for visually impaired and dyslexic learners.
 
 The entire system runs **inside a web browser**, ensuring easy access without installation.
 
@@ -79,14 +79,14 @@ The entire system runs **inside a web browser**, ensuring easy access without in
 
 ###  Voice Control
 - 30+ voice commands
-- completely hands-free
+- 99% hands-free and easy to use through keyboard too
 
 ###  AI Lessons
 - personalised lessons based on **grade and board**
 
-###  Smart Quiz
-- answer questions using voice
-- simply say **A, B, C or D**
+###  Smart exam and quiz 
+- answer questions using voice as well as keyboard 
+- simply say **A, B, C or D** or click the answer on keyboard 
 
 ###  Exam Mode
 - full mock exams with voice interaction
@@ -104,7 +104,7 @@ The entire system runs **inside a web browser**, ensuring easy access without in
 - receive instant explanation
 
 ###  Multilingual Support
-Supports **8+ languages** including:
+Supports **8+ languages (for lesson generation and motivation).** including:
 
 - Hindi
 - Tamil
@@ -200,12 +200,12 @@ SARA AI is built for two underserved communities.
 
 ##  Visually Impaired Students
 
-- fully voice-controlled interface
-- no mouse navigation required
+- 99% voice-controlled interface with some features navigated by keyboard
+- a little mouse navigation required
 - text-to-speech for all content
 - high contrast display
 
-##  Dyslexic Students
+##  students with dyslexia 
 
 - OpenDyslexic font mode
 - increased letter spacing
@@ -220,7 +220,7 @@ SARA AI is built for two underserved communities.
 - evaluated by teachers
 - **34% improvement in quiz scores after two weeks**
 
-Potential reach:
+Potential reach ( may reach in future ):
 
 - **253M visually impaired learners**
 - **700M dyslexic learners worldwide**
@@ -242,15 +242,15 @@ SARA AI follows privacy-first principles.
 -sara_student.html      → main application
 - presentation.pptx      → project slides
 - summary.docx.→ project report
-- video_script.docx      → competition script
 ---
 
 #  How to Run
 
 1. Download `sara_student.html`
 2. Open in **Google Chrome**
-3. Allow microphone access
-4. Say **"Hello SARA"**
+3. Provide your groq API keys 
+4. Allow microphone access
+5. Say **"Hello SARA"**
 
 The application runs **entirely in the browser**.
 
@@ -275,3 +275,9 @@ Mentor: Vineeta Garg
 © 2026 Aditya Rai & Sparsh Ruhela
 
 This project is created for **educational and competition purposes**.
+
+---
+
+# user information 
+There has been a lot of efforts in creating this project . a strict eye was kept on users feedback and the creators have tried their best to make this accesible to everyone but still some errors may remains . creators are sorry for that 
+For security reasons API is not provided in the code. user has to provide its own api key or use the link provided 
