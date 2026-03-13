@@ -279,7 +279,7 @@ This project is created for **educational and competition purposes**.
 ---
 
 # user information 
-There has been a lot of efforts in creating this project . a strict eye was kept on users feedback and the creators have tried their best to make this accesible to everyone but still some errors may remains . creators are sorry for that 
+There has been a lot of efforts in creating this project . A strict eye was kept on users feedback and the creators have tried their best to make this accesible to everyone but still some errors may remains . creators are sorry for that. Those erros would surely be resolved in next version.
 
 ---
 
